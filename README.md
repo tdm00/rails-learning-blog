@@ -1,4 +1,3 @@
-# Learning Rails Blog Project [![build status](https://secure.travis-ci.org/talltroym/rails-learning-blog.png?branch=master
-)](https://secure.travis-ci.org/talltroym/rails-learning-blog)
+# Learning Rails Blog Project ![Build Status](https://secure.travis-ci.org/talltroym/rails-learning-blog.png?branch=master "Travis CI Build Status")
 
-GitLab is a free project and repository management application
+This project follows the [Ruby on Rails Guide: Getting Started with Rails](http://guides.rubyonrails.org/getting_started.html)
