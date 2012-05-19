@@ -1,0 +1,21 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  name: tbird72
+  title: How to write ColdFusion applications
+  content: "Writing ColdFusion applications is very easy, the first thing you need to do is to download Railo"
+
+two:
+  name: donald_duck
+  title: If It Walks Like A Duck...
+  content: "Everyone knows that joke that starts with..."
+
+three:
+  name: mickey_mouse
+  title: Who's the president?
+  content: 'M-I-C-K-E-Y M-O-U-S-E'
+
+four:
+  name: tweety_bird
+  title: Tweeting for the common good
+  content: "Keep it iwithin 140 characters..."
