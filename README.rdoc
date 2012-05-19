@@ -1,3 +1,0 @@
-== Sample Ruby on Rails Blog Project
-https://secure.travis-ci.org/talltroym/rails-learning-blog.png?branch=master
-This project is a sample Ruby on Rails blog project that I'm using to follow along with the Ruby on Rails Guides.  I also have this repository configured to use [Travis Continous Integration](http://travis-ci.org) testing for the project.
