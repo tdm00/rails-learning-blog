@@ -72,5 +72,11 @@ class PostTest < ActiveSupport::TestCase
   	assert !post.save
   end
 
+  test "update post without content by id" do
+  	post = Post.find(113629430)
+  	post.content = ''
+  	assert post.save
+  end
+
 
 end
